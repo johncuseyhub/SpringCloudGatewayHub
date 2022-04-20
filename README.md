@@ -3,8 +3,7 @@
 # John Cusey Sandbox
 [Gateway](https://github.com/johncuseysan/gateway)      
 [First Service](https://github.com/johncuseysan/first-service)     
-[Second Service](https://github.com/johncuseysan/second-service)     
-[Third Service](https://github.com/johncuseysan/third-service)      
+[Second Service](https://github.com/johncuseysan/second-service)         
 
 # Reference
 [Spring Cloud Gateway - Official Site](https://cloud.spring.io/spring-cloud-static/spring-cloud-gateway/2.1.0.RC3/single/spring-cloud-gateway.html)        
